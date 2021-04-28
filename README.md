@@ -4,7 +4,7 @@ My solutions to leetcode problems.
 ________
 ## Problems Solved:
 
-        - Two Sum (Easy)
+    - Two Sum (Easy)
 
 ________
 ## Resources:
