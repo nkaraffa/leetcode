@@ -5,6 +5,7 @@ ________
 ## Problems Solved:
 
     - Two Sum [(Easy), (C#)]
+    - Reverse Integer (32bit) [(Easy), (C#)]
 
 ________
 ## Resources:
