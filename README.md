@@ -7,6 +7,7 @@ ________
     - Two Sum [(Easy), (C#)]
     - Reverse Integer (32bit) [(Easy), (C#)]
     - Check if the Sentence Is Pangram [(Easy), (C#)]
+    - Determine if String Halves Are Alike [(Easy), (C#)]
 
 ________
 ## Resources:
