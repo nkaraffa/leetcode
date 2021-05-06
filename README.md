@@ -9,6 +9,7 @@ ________
     - Check if the Sentence Is Pangram [(Easy), (C#)]
     - Determine if String Halves Are Alike [(Easy), (C#)]
     - Running Sum of 1d Array [(Easy), (C#)]
+    - Roman to Integer [(Easy), (C#)]
 
 ________
 ## Resources:
