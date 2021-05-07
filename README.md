@@ -10,6 +10,7 @@ ________
     - Determine if String Halves Are Alike [(Easy), (C#)]
     - Running Sum of 1d Array [(Easy), (C#)]
     - Roman to Integer [(Easy), (C#)]
+    - Integer to Roman [(Medium), (C#)]
 
 ________
 ## Resources:
