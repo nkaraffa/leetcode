@@ -11,6 +11,7 @@ ________
     - Running Sum of 1d Array [(Easy), (C#)]
     - Roman to Integer [(Easy), (C#)]
     - Integer to Roman [(Medium), (C#)]
+    - Remove Duplicates from Sorted Array [(Easy), (C#)]
 
 ________
 ## Resources:
