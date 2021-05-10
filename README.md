@@ -12,6 +12,7 @@ ________
     - Roman to Integer [(Easy), (C#)]
     - Integer to Roman [(Medium), (C#)]
     - Remove Duplicates from Sorted Array [(Easy), (C#)]
+    - Remove Element [(Easy), (C#)]
 
 ________
 ## Resources:
