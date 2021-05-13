@@ -14,6 +14,7 @@ ________
     - Remove Duplicates from Sorted Array [(Easy), (C#)]
     - Remove Element [(Easy), (C#)]
     - Move Zeroes [(Easy), (C#)]
+    - Length of Last Word [(Easy), (C#)]
 
 ________
 ## Resources:
