@@ -15,6 +15,7 @@ ________
     - Remove Element [(Easy), (C#)]
     - Move Zeroes [(Easy), (C#)]
     - Length of Last Word [(Easy), (C#)]
+    - Majority Element [(Easy), (C#)]
 
 ________
 ## Resources:
