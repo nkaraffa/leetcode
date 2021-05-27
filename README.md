@@ -16,6 +16,8 @@ ________
     - Move Zeroes [(Easy), (C#)]
     - Length of Last Word [(Easy), (C#)]
     - Majority Element [(Easy), (C#)]
+    - Single Number [(Easy), (C#)]
+    - Two Sum II - Input array is sorted [(Easy), (C#)]
 
 ________
 ## Resources:
