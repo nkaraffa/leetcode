@@ -18,7 +18,6 @@ ________
     - Majority Element [(Easy), (C#)]
     - Single Number [(Easy), (C#)]
     - Two Sum II - Input array is sorted [(Easy), (C#)]
-    -
 
 ________
 ## Resources:
