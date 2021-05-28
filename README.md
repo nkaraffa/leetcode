@@ -19,6 +19,7 @@ ________
     - Single Number [(Easy), (C#)]
     - Two Sum II - Input array is sorted [(Easy), (C#)]
     - Happy Number [(Easy), (C#)]
+    - First Unique Character in a String [(Easy), (C#)]
 
 ________
 ## Resources:
