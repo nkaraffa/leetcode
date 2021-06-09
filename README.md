@@ -20,6 +20,7 @@ ________
     - Two Sum II - Input array is sorted [(Easy), (C#)]
     - Happy Number [(Easy), (C#)]
     - First Unique Character in a String [(Easy), (C#)]
+    - Contains Duplicate [(Easy), (C#)]
 
 ________
 ## Resources:
