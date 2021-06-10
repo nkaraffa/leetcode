@@ -22,6 +22,7 @@ ________
     - First Unique Character in a String [(Easy), (C#)]
     - Contains Duplicate [(Easy), (C#)]
     - Missing Number [(Easy), (C#)]
+    - Reverse String [(Easy), (C#)]
 
 ________
 ## Resources:
