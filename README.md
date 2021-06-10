@@ -21,6 +21,7 @@ ________
     - Happy Number [(Easy), (C#)]
     - First Unique Character in a String [(Easy), (C#)]
     - Contains Duplicate [(Easy), (C#)]
+    - Missing Number [(Easy), (C#)]
 
 ________
 ## Resources:
