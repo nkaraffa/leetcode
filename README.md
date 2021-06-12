@@ -23,6 +23,7 @@ ________
     - Contains Duplicate [(Easy), (C#)]
     - Missing Number [(Easy), (C#)]
     - Reverse String [(Easy), (C#)]
+    - Find the Student that Will Replace the Chalk [(Medium), (C#)]
 
 ________
 ## Resources:
