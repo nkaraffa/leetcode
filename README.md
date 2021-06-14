@@ -24,6 +24,7 @@ ________
     - Missing Number [(Easy), (C#)]
     - Reverse String [(Easy), (C#)]
     - Find the Student that Will Replace the Chalk [(Medium), (C#)]
+    - Reverse String II [(Easy), (C#)]
 
 ________
 ## Resources:
