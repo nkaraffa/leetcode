@@ -25,6 +25,7 @@ ________
     - Reverse String [(Easy), (C#)]
     - Find the Student that Will Replace the Chalk [(Medium), (C#)]
     - Reverse String II [(Easy), (C#)]
+    - Best Time to Buy and Sell Stock [(Easy), (C#)]
 
 ________
 ## Resources:
