@@ -27,6 +27,7 @@ ________
     - Reverse String II [(Easy), (C#)]
     - Best Time to Buy and Sell Stock [(Easy), (C#)]
     - Valid Parentheses [(Easy), (C#)]
+    - Merge Two Sorted Lists [(Easy), (C#)]
 
 ________
 ## Resources:
