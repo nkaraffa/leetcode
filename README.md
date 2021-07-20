@@ -28,6 +28,7 @@ ________
     - Best Time to Buy and Sell Stock [(Easy), (C#)]
     - Valid Parentheses [(Easy), (C#)]
     - Merge Two Sorted Lists [(Easy), (C#)]
+    - Merge Sorted Array [(Easy), (C#)]
 
 ________
 ## Resources:
