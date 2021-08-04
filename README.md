@@ -29,6 +29,7 @@ ________
     - Valid Parentheses [(Easy), (C#)]
     - Merge Two Sorted Lists [(Easy), (C#)]
     - Merge Sorted Array [(Easy), (C#)]
+    - Search Insert Position [(Easy), (C#)]
 
 ________
 ## Resources:
